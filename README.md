@@ -2,7 +2,7 @@
 
 ### Code to scan skystone blocks during autonomous for FTC SKYSTONE. 
 
-* The only file you will need to modify is Auto_Load_Sample_Code_Side_Not_Specified in the src folder github.com/16633BotsinBlack/REV-Color_Sensor-Autonomous-Code/master/Auto_Load_Sample_Code_Side_Not_Specified.java 
+* The only file you will need to modify is Auto_Load_Sample_Code_Side_Not_Specified in the [src folder] (https://github.com/16633BotsinBlack/Color-Sensor-for-Autonomous/tree/master/src) 
 
 * The actual code that tests the color values of the blocks and decides what position to run starts at line 64 through line 118.
 
